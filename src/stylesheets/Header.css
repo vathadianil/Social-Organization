@@ -1,0 +1,19 @@
+.header {
+  max-width: 1290px;
+  margin: 25px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerLogo {
+  width: 100px;
+}
+
+.headerLogoImage {
+  width: 100%;
+}
+
+.headerBtn {
+  background-color: #e14f42;
+}
